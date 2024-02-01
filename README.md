@@ -1,2 +1,1 @@
-# wpcdn
- wpcdn
+wp
